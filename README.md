@@ -2,9 +2,13 @@
 
 A **SwiftUI-powered app** that showcases NASA's historic **Apollo moon missions** and the astronauts who took part in them. 🌌  
 
-![Moonshot Preview](#) <!-- Add a screenshot of the app here -->
+<img src="https://github.com/user-attachments/assets/ed4a32d2-6982-463f-a53e-f66d4ccb03af" alt="Preview" width="250" height="500">
 
----
+
+
+
+
+
 
 ## 🚀 About the Project  
 **Moonshot** is a SwiftUI-based application that visually represents the **Apollo Space Missions** and **NASA astronauts** involved in them.  
@@ -20,7 +24,7 @@ Users can explore **mission details**, **launch dates**, and **crew members** wi
 ## 📸 Screenshots  
 | Missions Grid | Mission Details | Astronaut Profile |  
 |--------------|----------------|--------------------|  
-| ![Missions](#) | ![Mission Details](#) | ![Astronaut](#) |  
+| <img src="https://github.com/user-attachments/assets/1c688413-78af-49f1-ad32-9672f5d84574" alt="Home" width="250" height="500"> |<img src="https://github.com/user-attachments/assets/360b3bef-b9f4-4f42-b25c-a8ecef984c4e" alt="Detail" width="250" height="500">| <img src="https://github.com/user-attachments/assets/97f61f36-28bd-42ab-9d58-6eae29008c70" alt="Astronauts" width="250" height="500"> |  
 
 ---
 
